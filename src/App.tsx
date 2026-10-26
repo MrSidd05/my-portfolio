@@ -96,7 +96,7 @@ function App() {
             href="/Siddharth-Ghatuary-Resume.pdf"
             target="_blank"
           >
-            View résumé
+            View Resume
           </a>
         </div>
       </section>
