@@ -1,0 +1,10 @@
+{
+  "description": "Explore a futuristic portfolio showcasing professional experience, client projects, and Query Quest, an interactive platform for learning SQL through games.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
