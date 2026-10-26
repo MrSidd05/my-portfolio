@@ -287,7 +287,7 @@ function App() {
             rel="noreferrer"
           >
             <div className="venture-head">
-              <span>CLIENT DELIVERY / 2025</span>
+              <span>CLIENT DELIVERY / 2026</span>
             </div>
             <div className="curry-visual" aria-hidden="true">
               <span>THE</span>
